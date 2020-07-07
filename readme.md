@@ -6,6 +6,10 @@
 
 - 노드설치
   - `apt-get install -y nodejs`
+  - `apt-get install -y npm`
+  - `npm i -g npx`
+- `Create React App` 설치
+  - `npx create-react-app react-tutorial`
 
 ## 참고
 
